@@ -32,7 +32,7 @@ https://pages-de9.pages.dev/8e2ab833-7690-4085-9554-05103103cc03/psb
 
 
 
-Up主独家配置文件(自定义配置文件)：
+订阅源自定义配置文件(自定义配置文件)：
 
 https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini
 
