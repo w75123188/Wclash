@@ -41,6 +41,8 @@ https://raw.githubusercontent.com/w75123188/Wclash/refs/heads/main/Clash-LIAN.in
 
 
 openwrt主路由一键配置的方法
+1分钟完美配置openClash（主路由）安格视界视频：
+
 https://m.youtube.com/watch?v=Hm47TyJqVdc
 
 下载以下地址的openwt.txt文件，重命名为openwrt去掉后缀，通过ssh工具放入openwrt配置文件
