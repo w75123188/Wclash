@@ -43,4 +43,6 @@ https://raw.githubusercontent.com/w75123188/Wclash/refs/heads/main/Clash-LIAN.in
 openwrt主路由一键配置的方法
 
 https://m.youtube.com/watch?v=Hm47TyJqVdc
+下载以下地址的openwt.txt文件，重命名为openwrt去掉后缀，通过ssh工具放入openwrt配置文件
+https://github.com/liandu2024/clash/blob/main/main_router/
 
